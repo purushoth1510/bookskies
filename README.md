@@ -1,7 +1,5 @@
 📚 Bookskies
 
-[![GitHub stars](https://img.shields.io/github/stars/purushoth1510/bookskies?style=social)](https://github.com/purushoth1510/bookskies)
-
 **Bookskies** is a simple and intuitive web application to store and track the books you’ve read, along with a one-line note or description for each. It’s built using **HTML, CSS, and JavaScript**, perfect for beginners and anyone who loves reading and organizing their reading journey!
 
 ---
